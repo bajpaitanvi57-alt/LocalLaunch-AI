@@ -1,0 +1,14 @@
+{
+  "name": "locallaunch-ai",
+  "version": "1.0.0",
+  "description": "Local-first AI product listing and promo writer powered by Ollama",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+
+
